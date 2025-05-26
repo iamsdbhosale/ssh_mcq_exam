@@ -42,3 +42,43 @@ Exam Completed! Your Score: 2/2
 --------------------------------------------
 Thank You!!!
 ---
+humanrobot@humanrobot:~/ssh-mcq-exam$ ls
+exam.py  questions.json  README.md  results  users.txt
+humanrobot@humanrobot:~/ssh-mcq-exam$ python3 exam.py
+Enter your name: Sachin
+
+Welcome Sachin, starting your exam...
+
+Q1: Which is your district?
+A. Solapur
+B. Pune
+C. Mumbai
+D. Dhule
+Your answer (A/B/C/D): a
+--------------------------------------------
+Q2: What is 2 + 2?
+A. 3
+B. 4
+C. 5
+D. 6
+Your answer (A/B/C/D): b
+--------------------------------------------
+Q4: What is 1 + 2?
+A. 3
+B. 4
+C. 5
+D. 6
+Your answer (A/B/C/D): a
+--------------------------------------------
+Q3: What is 4 + 2?
+A. 3
+B. 4
+C. 5
+D. 6
+Your answer (A/B/C/D): d
+--------------------------------------------
+
+Exam Completed! Your Score: 4/4
+--------------------------------------------
+Thank You!!!
+---
