@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "What is the first letter of the alphabet?",
+    "options": ["A. Z", "B. B", "C. A", "D. M"],
+    "answer": "C"
+  },
+  {
+    "id": 2,
+    "question": "Which one is a vowel?",
+    "options": ["A. B", "B. E", "C. R", "D. Y"],
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "question": "Which word is a color?",
+    "options": ["A. Apple", "B. Banana", "C. Green", "D. Chair"],
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "question": "Which is the opposite of 'Big'?",
+    "options": ["A. Huge", "B. Small", "C. Tall", "D. Fat"],
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "question": "Which one is an animal?",
+    "options": ["A. Table", "B. Chair", "C. Dog", "D. Pen"],
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "question": "What comes after number 9?",
+    "options": ["A. 8", "B. 10", "C. 7", "D. 6"],
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "question": "Which shape has 3 sides?",
+    "options": ["A. Circle", "B. Square", "C. Triangle", "D. Rectangle"],
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "question": "Which number is the smallest?",
+    "options": ["A. 5", "B. 2", "C. 8", "D. 10"],
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "question": "What is 2 + 3?",
+    "options": ["A. 6", "B. 4", "C. 5", "D. 1"],
+    "answer": "C"
+  },
+  {
+    "id": 10,
+    "question": "How many legs does a spider have?",
+    "options": ["A. 4", "B. 6", "C. 8", "D. 2"],
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "question": "Which one is a fruit?",
+    "options": ["A. Potato", "B. Apple", "C. Tomato", "D. Carrot"],
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "question": "Where do fish live?",
+    "options": ["A. Sky", "B. Tree", "C. Water", "D. Land"],
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "question": "Which part of the body helps us see?",
+    "options": ["A. Nose", "B. Eyes", "C. Ears", "D. Hands"],
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "What do we breathe in?",
+    "options": ["A. Smoke", "B. Air", "C. Water", "D. Fire"],
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "Which one gives us light at night?",
+    "options": ["A. Sun", "B. Moon", "C. Cloud", "D. Rain"],
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "Which festival is known as the festival of lights?",
+    "options": ["A. Holi", "B. Christmas", "C. Diwali", "D. Eid"],
+    "answer": "C"
+  },
+  {
+    "id": 17,
+    "question": "What color is the sky on a clear day?",
+    "options": ["A. Green", "B. Red", "C. Blue", "D. Yellow"],
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "question": "Who teaches in a school?",
+    "options": ["A. Doctor", "B. Teacher", "C. Driver", "D. Farmer"],
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "question": "Which animal says 'Meow'?",
+    "options": ["A. Cow", "B. Dog", "C. Cat", "D. Horse"],
+    "answer": "C"
+  },
+  {
+    "id": 20,
+    "question": "How many days are there in a week?",
+    "options": ["A. 5", "B. 6", "C. 7", "D. 8"],
+    "answer": "C"
+  }
+]
