@@ -19,7 +19,7 @@ def run_exam(username):
         ans = input("Your answer (A/B/C/D): ").strip().upper()
         answers.append({'id': q['id'], 'your_answer': ans})
         print("--------------------------------------------")
-        #os.system('cls' if os.name == 'nt' else 'clear')
+        #os.system('cls' if os.name == 'nt' else 'clear') // it helps to clear the screen
         if ans == q['answer']:
             score += 1
 
