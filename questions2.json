@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "What do cows give us?",
+    "options": ["A. Wool", "B. Eggs", "C. Milk", "D. Honey"],
+    "answer": "C"
+  },
+  {
+    "id": 2,
+    "question": "What is the color of the sun?",
+    "options": ["A. Blue", "B. Red", "C. Yellow", "D. Green"],
+    "answer": "C"
+  },
+  {
+    "id": 3,
+    "question": "Which day comes after Monday?",
+    "options": ["A. Sunday", "B. Wednesday", "C. Tuesday", "D. Friday"],
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "question": "How many fingers are there on one hand?",
+    "options": ["A. 4", "B. 5", "C. 6", "D. 10"],
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "question": "Which sense organ helps us hear?",
+    "options": ["A. Eyes", "B. Hands", "C. Ears", "D. Nose"],
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "question": "What is 5 - 2?",
+    "options": ["A. 3", "B. 6", "C. 4", "D. 2"],
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "question": "Which is a healthy food?",
+    "options": ["A. Chips", "B. Ice Cream", "C. Apple", "D. Chocolate"],
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "question": "What do plants need to grow?",
+    "options": ["A. Ice", "B. Darkness", "C. Water", "D. Rocks"],
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "question": "Which one is used to write?",
+    "options": ["A. Spoon", "B. Pen", "C. Cup", "D. Plate"],
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "What is the shape of a ball?",
+    "options": ["A. Square", "B. Triangle", "C. Circle", "D. Rectangle"],
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "question": "Which animal has a long trunk?",
+    "options": ["A. Lion", "B. Dog", "C. Elephant", "D. Tiger"],
+    "answer": "C"
+  },
+  {
+    "id": 12,
+    "question": "Which one is a pet animal?",
+    "options": ["A. Lion", "B. Tiger", "C. Dog", "D. Fox"],
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "question": "What do we use to drink water?",
+    "options": ["A. Plate", "B. Spoon", "C. Cup", "D. Bottle"],
+    "answer": "D"
+  },
+  {
+    "id": 14,
+    "question": "Which of these is a flower?",
+    "options": ["A. Mango", "B. Lotus", "C. Potato", "D. Grass"],
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "What is 10 - 4?",
+    "options": ["A. 7", "B. 5", "C. 6", "D. 4"],
+    "answer": "C"
+  },
+  {
+    "id": 16,
+    "question": "Which bird cannot fly?",
+    "options": ["A. Crow", "B. Parrot", "C. Ostrich", "D. Pigeon"],
+    "answer": "C"
+  },
+  {
+    "id": 17,
+    "question": "Which is a wild animal?",
+    "options": ["A. Cow", "B. Goat", "C. Cat", "D. Tiger"],
+    "answer": "D"
+  },
+  {
+    "id": 18,
+    "question": "What is the opposite of 'Hot'?",
+    "options": ["A. Cold", "B. Big", "C. Wet", "D. Fast"],
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "question": "How many toes do we have?",
+    "options": ["A. 8", "B. 10", "C. 5", "D. 12"],
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "question": "Which of these is a transport?",
+    "options": ["A. Pen", "B. Bus", "C. Tree", "D. School"],
+    "answer": "B"
+  }
+]

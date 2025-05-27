@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "Which season is known for rain?",
+    "options": ["A. Summer", "B. Winter", "C. Monsoon", "D. Spring"],
+    "answer": "C"
+  },
+  {
+    "id": 2,
+    "question": "What do bees make?",
+    "options": ["A. Butter", "B. Honey", "C. Sugar", "D. Juice"],
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "question": "Which planet do we live on?",
+    "options": ["A. Mars", "B. Earth", "C. Venus", "D. Jupiter"],
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "What do you wear on your feet?",
+    "options": ["A. Cap", "B. Shirt", "C. Shoes", "D. Gloves"],
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "question": "Which one is a bird?",
+    "options": ["A. Duck", "B. Frog", "C. Fish", "D. Snake"],
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "question": "What is 6 + 1?",
+    "options": ["A. 8", "B. 6", "C. 7", "D. 9"],
+    "answer": "C"
+  },
+  {
+    "id": 7,
+    "question": "What color is grass?",
+    "options": ["A. Red", "B. Blue", "C. Green", "D. Orange"],
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "question": "What do you use to eat soup?",
+    "options": ["A. Fork", "B. Spoon", "C. Knife", "D. Plate"],
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "question": "Which one is a means of communication?",
+    "options": ["A. Car", "B. Train", "C. Telephone", "D. Fan"],
+    "answer": "C"
+  },
+  {
+    "id": 10,
+    "question": "What is the opposite of 'Day'?",
+    "options": ["A. Light", "B. Bright", "C. Night", "D. White"],
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "question": "What is the color of an apple?",
+    "options": ["A. Purple", "B. Yellow", "C. Red", "D. Blue"],
+    "answer": "C"
+  },
+  {
+    "id": 12,
+    "question": "What do we wear on a rainy day?",
+    "options": ["A. Cap", "B. Raincoat", "C. Sunglasses", "D. Sweater"],
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "question": "How many letters are there in the English alphabet?",
+    "options": ["A. 24", "B. 25", "C. 26", "D. 27"],
+    "answer": "C"
+  },
+  {
+    "id": 14,
+    "question": "What do you do in school?",
+    "options": ["A. Sleep", "B. Watch TV", "C. Study", "D. Cook"],
+    "answer": "C"
+  },
+  {
+    "id": 15,
+    "question": "Which festival is celebrated with colors?",
+    "options": ["A. Diwali", "B. Holi", "C. Eid", "D. Christmas"],
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "How many sides does a square have?",
+    "options": ["A. 2", "B. 3", "C. 4", "D. 5"],
+    "answer": "C"
+  },
+  {
+    "id": 17,
+    "question": "Which one is a domestic animal?",
+    "options": ["A. Lion", "B. Tiger", "C. Cow", "D. Wolf"],
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "question": "Which sense organ helps us taste food?",
+    "options": ["A. Eyes", "B. Nose", "C. Tongue", "D. Ears"],
+    "answer": "C"
+  },
+  {
+    "id": 19,
+    "question": "What is 3 + 4?",
+    "options": ["A. 6", "B. 8", "C. 7", "D. 9"],
+    "answer": "C"
+  },
+  {
+    "id": 20,
+    "question": "Where do birds lay eggs?",
+    "options": ["A. Nest", "B. Tree", "C. Water", "D. Cloud"],
+    "answer": "A"
+  }
+]
