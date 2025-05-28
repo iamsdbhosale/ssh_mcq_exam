@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "Which shape has no sides?",
+    "options": ["A. Circle", "B. Square", "C. Triangle", "D. Rectangle"],
+    "answer": "A"
+  },
+  {
+    "id": 2,
+    "question": "What is the capital of India?",
+    "options": ["A. Mumbai", "B. Delhi", "C. Chennai", "D. Kolkata"],
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "question": "Which fruit is yellow and long?",
+    "options": ["A. Apple", "B. Orange", "C. Banana", "D. Grapes"],
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "question": "Which is a good habit?",
+    "options": ["A. Fighting", "B. Lying", "C. Sharing", "D. Shouting"],
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "question": "What is the color of the sky at night?",
+    "options": ["A. Red", "B. Green", "C. Black", "D. Yellow"],
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "question": "How many legs does a dog have?",
+    "options": ["A. 4", "B. 6", "C. 8", "D. 2"],
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "question": "What comes after 10?",
+    "options": ["A. 8", "B. 10", "C. 7", "D. 11"],
+    "answer": "D"
+  },
+  {
+    "id": 8,
+    "question": "Which part of the plant is green?",
+    "options": ["A. Root", "B. Leaf", "C. Stem", "D. Flower"],
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "question": "What do we do with our eyes?",
+    "options": ["A. Hear", "B. Taste", "C. See", "D. Smell"],
+    "answer": "C"
+  },
+  {
+    "id": 10,
+    "question": "Which is a water animal?",
+    "options": ["A. Lion", "B. Dog", "C. Fish", "D. Cat"],
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "question": "What is 2 + 5?",
+    "options": ["A. 6", "B. 8", "C. 7", "D. 5"],
+    "answer": "C"
+  },
+  {
+    "id": 12,
+    "question": "Which one flies in the sky?",
+    "options": ["A. Train", "B. Car", "C. Bird", "D. Boat"],
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "question": "How many wheels does a bicycle have?",
+    "options": ["A. 4", "B. 3", "C. 2", "D. 1"],
+    "answer": "C"
+  },
+  {
+    "id": 14,
+    "question": "What is the opposite of 'Tall'?",
+    "options": ["A. Small", "B. Short", "C. Thin", "D. Big"],
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "What do we drink when we are thirsty?",
+    "options": ["A. Oil", "B. Water", "C. Milkshake", "D. Paint"],
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "Which animal barks?",
+    "options": ["A. Cow", "B. Cat", "C. Dog", "D. Horse"],
+    "answer": "C"
+  },
+  {
+    "id": 17,
+    "question": "Which one is a vegetable?",
+    "options": ["A. Apple", "B. Brinjal", "C. Banana", "D. Mango"],
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "question": "How many eyes do we have?",
+    "options": ["A. One", "B. Three", "C. Two", "D. Four"],
+    "answer": "C"
+  },
+  {
+    "id": 19,
+    "question": "Which festival is called the festival of Kite?",
+    "options": ["A. Holi", "B. Sankranti", "C. Eid", "D. Christmas"],
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "question": "Where do we cook food?",
+    "options": ["A. Bedroom", "B. Kitchen", "C. Bathroom", "D. Garden"],
+    "answer": "B"
+  }
+]

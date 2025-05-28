@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "What is the opposite of 'Hot'?",
+    "options": ["A. Cold", "B. Warm", "C. Boil", "D. Heat"],
+    "answer": "A"
+  },
+  {
+    "id": 2,
+    "question": "Which is a vowel?",
+    "options": ["A. B", "B. C", "C. A", "D. D"],
+    "answer": "C"
+  },
+  {
+    "id": 3,
+    "question": "Which word is a color?",
+    "options": ["A. Apple", "B. Red", "C. Run", "D. Big"],
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "What is the first letter of the alphabet?",
+    "options": ["A. B", "B. Z", "C. A", "D. C"],
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "question": "Which of these is an animal?",
+    "options": ["A. Chair", "B. Table", "C. Dog", "D. Fan"],
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "question": "What is the opposite of 'Up'?",
+    "options": ["A. Down", "B. Over", "C. In", "D. Out"],
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "question": "Which word is used to drink?",
+    "options": ["A. Eat", "B. Sing", "C. Drink", "D. Run"],
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "question": "What do we do with our ears?",
+    "options": ["A. Smell", "B. Hear", "C. See", "D. Taste"],
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "question": "What is the plural of 'Cat'?",
+    "options": ["A. Cats", "B. Cates", "C. Catted", "D. Cating"],
+    "answer": "A"
+  },
+  {
+    "id": 10,
+    "question": "Which one is a fruit?",
+    "options": ["A. Ball", "B. Apple", "C. Chair", "D. Box"],
+    "answer": "B"
+  },
+  {
+    "id": 11,
+    "question": "Which word rhymes with 'bat'?",
+    "options": ["A. Hat", "B. Big", "C. Run", "D. Cow"],
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "Which one is a pet animal?",
+    "options": ["A. Tiger", "B. Elephant", "C. Dog", "D. Lion"],
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "question": "Which one is a name of a day?",
+    "options": ["A. Apple", "B. Sunday", "C. Banana", "D. Flower"],
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "What do we use to write?",
+    "options": ["A. Spoon", "B. Pen", "C. Plate", "D. Cup"],
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "Which is a feeling word?",
+    "options": ["A. Happy", "B. Box", "C. Water", "D. Leaf"],
+    "answer": "A"
+  },
+  {
+    "id": 16,
+    "question": "Which word means 'fast'?",
+    "options": ["A. Slow", "B. Run", "C. Sit", "D. Eat"],
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "question": "Which word is a place?",
+    "options": ["A. School", "B. Book", "C. Bag", "D. Apple"],
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "question": "Which is a question word?",
+    "options": ["A. What", "B. Apple", "C. Run", "D. Tree"],
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "question": "Which word is an action word?",
+    "options": ["A. Dance", "B. Chair", "C. Hat", "D. Table"],
+    "answer": "A"
+  },
+  {
+    "id": 20,
+    "question": "What do we do with our mouth?",
+    "options": ["A. Walk", "B. Hear", "C. Eat", "D. See"],
+    "answer": "C"
+  }
+]

@@ -2,7 +2,7 @@ import json
 import os
 
 def load_questions():
-    with open("questions2.json", "r") as f:
+    with open("questions5.json", "r") as f:
         return json.load(f)
 
 def run_exam(username):
